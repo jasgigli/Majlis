@@ -13,7 +13,7 @@ const WelcomeSection = () => {
       <h2 className="text-3xl font-bold mb-4 text-center text-white">
         خوش آمدید
       </h2>
-      <p className="text-lg leading-relaxed text-white text-center mb-32">
+      <p className="text-lg leading-relaxed text-white text-center mb-10">
         مجلس اتحاد العلماء کی ویب سائٹ پر خوش آمدید، یہ تنظیم آپ کے علاقے کے
         اسلامی مسائل کے حل کے لئے بنائی گئی ہے۔
       </p>

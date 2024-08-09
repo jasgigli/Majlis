@@ -1,0 +1,16 @@
+/* AlertSection.css */
+@keyframes slow-bounce {
+  0%,
+  100% {
+    transform: translateY(-10%);
+    animation-timing-function: ease-in-out;
+  }
+  50% {
+    transform: translateY(0);
+    animation-timing-function: ease-in-out;
+  }
+}
+
+.slow-bounce {
+  animation: slow-bounce 1s infinite; /* Adjusted duration to 5 seconds */
+}
