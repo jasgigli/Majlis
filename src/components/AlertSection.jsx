@@ -6,11 +6,12 @@ const AlertSection = () => {
       className="bg-gradient-to-r from-indigo-600 via-purple-600 to-indigo-600 border border-indigo-700 text-white px-6 py-4 rounded-lg shadow-lg animate-bounce text-2xl"
       role="alert"
     >
-      <div className="text-center bg-gray-900 p-2 mb-2">
-        <h2 className="text-3xl font-bold text-white  bg-opacity-80 inline-block px-4 py-2 rounded-lg shadow-lg">
+      <div className="text-center">
+        <h2 className="text-3xl font-bold text-black bg-white   bg-opacity-80 inline-block px-4 py-2 rounded-lg shadow-lg">
           ضروری اعلان
         </h2>
       </div>
+      <br />
 
       <strong className="font-extrabold text-2xl font-serif">
         اَلسَلامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ
