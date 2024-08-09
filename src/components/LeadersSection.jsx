@@ -116,7 +116,7 @@ const LeadersSection = () => {
             alt="Leader 1"
             className="w-24 h-24 rounded-full mb-2"
           />
-          <h3 className="text-lg font-semibold">مولانا حیدر علی عطرفی</h3>
+          <h3 className="text-lg font-semibold">مولانا حیدرعلی اطرافی</h3>
           <p>جنرل سیکرٹری</p>
         </motion.div>
         <motion.div
