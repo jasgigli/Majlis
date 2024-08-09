@@ -8,21 +8,21 @@ const AlertSection = () => {
       role="alert"
     >
       <div className="text-center">
-        <h2 className="text-4xl font-extrabold text-indigo-700 bg-white bg-opacity-90 inline-block px-6 py-3 rounded-full shadow-md tracking-wide">
+        <h2 className="text-2xl font-extrabold text-indigo-700 bg-white bg-opacity-90 inline-block px-6 py-3 rounded-full shadow-md tracking-wide">
           ضروری اعلان
         </h2>
       </div>
       <br />
 
-      <strong className="block text-2xl font-sans font-semibold text-center mt-4">
+      <strong className="block text-2xl font-sans font-semibold text-center mt-1">
         اَلسَلامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ
       </strong>
-      <span className="block mt-4 text-lg font-light leading-relaxed text-center">
+      <span className="block mt-2 text-lg font-light leading-relaxed text-center">
         تمام علماء کرام سے درخواست ہے کہ آج کے اجلاس میں اپنی شرکت کو یقینی
         بنائیں۔
       </span>
       <br />
-      <div className="mt-6 text-center">
+      <div className="mt-2 text-center">
         <strong className="text-2xl text-yellow-400 block underline decoration-dotted">
           نوٹ:
         </strong>
@@ -31,14 +31,14 @@ const AlertSection = () => {
           معذرت۔
         </span>
         <br />
-        <strong className="block text-xl mt-4 text-yellow-400">
+        <strong className="block text-xl mt-2 text-yellow-400">
           بوقت:
         </strong>{" "}
         <span className="block text-lg">
           آج بروز ہفتہ نماز عشاء کے فوراً بعد
         </span>
         <br />
-        <strong className="block text-xl mt-4 text-yellow-400">
+        <strong className="block text-xl mt-2 text-yellow-400">
           بمقام:
         </strong>{" "}
         <span className="block text-lg">جامع مسجد احناف لطیف آباد</span>

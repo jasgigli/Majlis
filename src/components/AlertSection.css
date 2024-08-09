@@ -12,5 +12,5 @@
 }
 
 .slow-bounce {
-  animation: slow-bounce 1s infinite; /* Adjusted duration to 5 seconds */
+  animation: slow-bounce 3s infinite; /* Adjusted duration to 5 seconds */
 }
